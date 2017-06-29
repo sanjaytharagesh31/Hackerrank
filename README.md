@@ -18,4 +18,7 @@ Solutions to Hackerrank problems
 * [Class](c++/Classes/program2.cpp)
 * [Classes and Objects](c++/Classes/program3.cpp)
 * [Inherited Code](c++/Classes/program5.cpp)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1eddefec3169a50540933c8f12e982584107b2ed
