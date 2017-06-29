@@ -12,13 +12,11 @@ Solutions to Hackerrank problems
 * [Functions](c++/Introduction/program6.cpp)
 * [Pointer](c++/Introduction/program7.cpp)
 * [Arrays Introduction](c++/Introduction/program8.cpp)
+* [Virtual Functions](c++/Introduction/program10.cpp)
 * [Strings](c++/Strings/program1.cpp)
 * [StringStream](c++/Strings/program2.cpp)
 * [Structs](c++/Classes/program1.cpp)
 * [Class](c++/Classes/program2.cpp)
 * [Classes and Objects](c++/Classes/program3.cpp)
 * [Inherited Code](c++/Classes/program5.cpp)
-<<<<<<< HEAD
 
-=======
->>>>>>> 1eddefec3169a50540933c8f12e982584107b2ed
