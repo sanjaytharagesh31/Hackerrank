@@ -19,4 +19,5 @@ Solutions to Hackerrank problems
 * [Class](c++/Classes/program2.cpp)
 * [Classes and Objects](c++/Classes/program3.cpp)
 * [Inherited Code](c++/Classes/program5.cpp)
+* [Inheritance Introduction](c++/Inheritance/program1.cpp)
 
