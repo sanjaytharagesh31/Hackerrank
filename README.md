@@ -22,4 +22,4 @@ Solutions to Hackerrank problems
 * [Inheritance Introduction](c++/Inheritance/program1.cpp)
 * [Rectangle Area](c++/Inheritance/program2.cpp)
 * [Multi Level Inheritance](c++/Inheritance/program3.cpp)
-
+* [Accessing Inherited Functions](c++/Inheritance/program4.cpp)
