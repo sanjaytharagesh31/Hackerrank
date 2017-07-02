@@ -21,4 +21,5 @@ Solutions to Hackerrank problems
 * [Inherited Code](c++/Classes/program5.cpp)
 * [Inheritance Introduction](c++/Inheritance/program1.cpp)
 * [Rectangle Area](c++/Inheritance/program2.cpp)
+* [Multi Level Inheritance](c++/Inheritance/program3.cpp)
 
