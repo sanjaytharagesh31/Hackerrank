@@ -19,7 +19,7 @@ Solutions to Hackerrank problems
 * [Class](c++/Classes/program2.cpp)
 * [Classes and Objects](c++/Classes/program3.cpp)
 * [Inherited Code](c++/Classes/program5.cpp)
-* [Vector-Sort] (c++/STL/program1.cpp)
+* [Vector-Sort](c++/STL/program1.cpp)
 * [Inheritance Introduction](c++/Inheritance/program1.cpp)
 * [Rectangle Area](c++/Inheritance/program2.cpp)
 * [Multi Level Inheritance](c++/Inheritance/program3.cpp)
