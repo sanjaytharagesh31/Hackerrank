@@ -19,6 +19,7 @@ Solutions to Hackerrank problems
 * [Class](c++/Classes/program2.cpp)
 * [Classes and Objects](c++/Classes/program3.cpp)
 * [Inherited Code](c++/Classes/program5.cpp)
+* [Exceptional Server](c++/Classes/program6.cpp)
 * [Vector-Sort](c++/STL/program1.cpp)
 * [Vector-Erase](c++/STL/program2.cpp)
 * [Inheritance Introduction](c++/Inheritance/program1.cpp)
