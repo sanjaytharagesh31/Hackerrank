@@ -22,6 +22,7 @@ Solutions to Hackerrank problems
 * [Exceptional Server](c++/Classes/program6.cpp)
 * [Vector-Sort](c++/STL/program1.cpp)
 * [Vector-Erase](c++/STL/program2.cpp)
+* [Lower Bound-STL](c++/STL/program3.cpp)
 * [Inheritance Introduction](c++/Inheritance/program1.cpp)
 * [Rectangle Area](c++/Inheritance/program2.cpp)
 * [Multi Level Inheritance](c++/Inheritance/program3.cpp)
